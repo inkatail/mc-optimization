@@ -8,19 +8,19 @@ modpack: 56fps, pretty stable.
 
 # Mods that i use:
 
-Starlight
-Lithium
-Iris 
-Sodium
-Hydrogen
-Clumps
-CullLeaves
-Entity Culling
-Fabric API (has some optimizations)
+- Starlight
+- Lithium
+- Iris 
+- Sodium
+- Hydrogen
+- Clumps
+- CullLeaves
+- Entity Culling
+- Fabric API (has some optimizations)
 
 # Non optimization mods 
-Indium (compatibility)
-okzoomer (optifine zoom)
-modmenu (useful for configuring mods)
-xaero's minimap
-boosted brightness (useful for caves lmao)
+- Indium (compatibility)
+- okzoomer (optifine zoom)
+- modmenu (useful for configuring mods)
+- xaero's minimap
+- boosted brightness (useful for caves lmao)
