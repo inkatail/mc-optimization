@@ -1,6 +1,8 @@
 # mc-optimization
 Mods that i use for Minecraft 1.18 optimization.
 FPS Differences between vanilla, and my modpack.
+
+
 optifine: 26fps with a LOT of framedrops
 ![optifine](https://i.imgur.com/6ayAySg.png)
 vanilla: 35fps with a lot of framedrops (u can see on the screenshot)
