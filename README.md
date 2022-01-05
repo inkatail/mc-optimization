@@ -16,6 +16,7 @@ modpack: 80fps, pretty stable.
 - Lithium
 - Iris 
 - Sodium
+- c2me
 - FerriteCore
 - Clumps
 - CullLeaves
