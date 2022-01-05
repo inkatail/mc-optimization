@@ -12,7 +12,6 @@ modpack: 80fps, pretty stable.
 
 # Mods that i use:
 
-- Starlight
 - Lithium
 - Iris 
 - Sodium
