@@ -23,6 +23,7 @@ modpack: 80fps, pretty stable.
 - LazyDFU
 - Dynamic FPS
 - Smooth Boot
+- Starlight
 - No Fade
 - Fabric API (has some optimizations)
 
